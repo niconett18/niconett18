@@ -1,30 +1,71 @@
-<h1 align="center">Hi 👋, I'm Nicholas Edmund</h1>
-<h3 align="center">I'm a frontend developer who cares about accessibility, performance, and polish. I enjoy turning complex problems into simple, usable interfaces and shipping reliable, maintainable code. My toolkit blends strong fundamentals with modern practices. I craft responsive designs with Tailwind CSS, wire up shippable features with vanilla JavaScript, and iterate quickly with clean, component‑minded HTML</h3>
+<!-- Profile Header -->
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nicholas Edmund
+</h1>
+<h3 align="center">
+  🚀 Frontend Developer | Accessibility ✦ Performance ✦ Clean UI ✦ Next.js Enthusiast
+</h3>
 
-- 🔭 I’m currently working on [SumoPower](sumopowerjs.vercel.app)
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [niconet.site](niconet.site)
-
-- 📫 How to reach me **nicholasedmund18@gmail.com**
-
-- 📄 Know about my experiences [niconet.site](niconet.site)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/niconet18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niconet18" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="600" height="300"/>
 </p>
 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niconett18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 👨‍💻 About Me  
+- 🔭 I’m currently working on [**SumoPower**](https://sumopowerjs.vercel.app)  
+- 🌱 Learning **Next.js** and building modern web apps  
+- 👨‍💻 All of my projects: [**niconet.site**](https://niconet.site)  
+- 📫 Reach me at: **nicholasedmund18@gmail.com**  
+- 📄 Learn more about me: [**Portfolio**](https://niconet.site)  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-[![](https://visitcount.itsvg.in/api?id=niconett18&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🌐 Connect with me  
+<p align="left">
+  <a href="https://instagram.com/niconet18" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 💻 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,tailwind,threejs,vite,python,c,figma,canva,vercel,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niconett18&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niconett18&layout=compact&theme=radical" alt="langs" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niconett18&theme=radical" alt="streak"/>
+</p>
+
+---
+
+## ✨ Fun Stuff  
+
+### 🔮 Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+### 🎬 Cool GIFs  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=niconett18&icon=5&color=6" alt="visitor count"/>
+</p>
+
+<!-- Proudly upgraded with animated touches -->
