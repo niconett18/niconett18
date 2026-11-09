@@ -27,7 +27,7 @@ name:       Nicholas Edmund Tanaka
 role:       Fullstack Developer
 location:   Jakarta, Indonesia
 education:  B.Eng. Computer Engineering — Universitas Indonesia (2024 — 2028)
-gpa:        3.56 / 4.00
+gpa:        3.6 / 4.00
 focus:      Next.js · TypeScript · Backend architecture · High-performance UIs
 currently:  Freelance web work · exploring AI-assisted developer tooling
 languages:  Bahasa Indonesia (native) · English (professional)
